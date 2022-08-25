@@ -1,0 +1,12 @@
+{
+    "name": "com.ovaworkt.mono-script.tools",
+    "version": "1.0.0",
+    "displayName": "Mono Script Tools",
+    "description": "A collection of utilities for quickly creating scripts in Unity.",
+    "unity": "2021.3",
+    "unityRelease": "6f1",
+    "author": {
+        "name": "OVAWORKT"
+    },
+    "type": "tool"
+}
