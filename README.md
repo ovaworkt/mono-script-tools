@@ -4,7 +4,7 @@ This package contains a collection of utilities for quickly creating scripts in 
 
 ## Installation
 
-Go to `Window > Package Manager > Add package from git URL...` and paste the following URL: `https://github.com/ovaworkt/mono-script-tools.git`. Alternatively, clone the repository and add it to your project, whichever works best.
+Go to `Window > Package Manager > Add package from git URL...` and paste the following URL: `https://github.com/ovaworkt/mono-script-tools.git#release`. Alternatively, clone the repository and add it to your project, whichever works best.
 
 ## Usage
 
